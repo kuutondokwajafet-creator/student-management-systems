@@ -9,8 +9,7 @@ This project manages student records using Python and an SQL database.
 ## Technologies Used
 
 - Python
-- My SQL
-- SQL
+- MySQL
 - GitHub
 
 ## Features
