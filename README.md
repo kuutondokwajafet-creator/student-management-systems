@@ -11,6 +11,10 @@ This project manages student records using Python and an SQL database.
 - Python
 - MySQL
 - GitHub
+- Tkinter
+- HTML
+- Cisco packet tracer
+- visual studio
 
 ## Features
 
